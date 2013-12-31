@@ -1,2 +1,6 @@
 {
+  "tweetPage": {
+    "message": "Tweet page",
+    "description": "Tooltip for the browser button"
+  }
 }
