@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "A button that lets you tweet the current page and url. Open source.",
-  "homepage_url": "http://stuartk.com/",
+  "homepage_url": "https://github.com/Stuk/tweet-page-chrome-extension",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
