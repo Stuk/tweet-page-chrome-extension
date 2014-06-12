@@ -4,6 +4,8 @@ A button that lets you tweet the current page and url.
 
 That's all.
 
+[Install it on the Chrome Web Store](https://chrome.google.com/webstore/detail/tweet-page/eobpfipgbnimppmpmcladpjdgeobmbaf).
+
 ## Screenshots
 
 ![Toolbar button](resources/screenshot1.png)
